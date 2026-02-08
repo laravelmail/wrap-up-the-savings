@@ -1,0 +1,413 @@
+{
+  "body": {
+    "rows": [
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "<h1 class=\"v-text-align v-line-height v-font-size\" style=\"margin: 0px; color: #000000; line-height: 140%; text-align: center; word-wrap: break-word;\">Laravel Mail</h1>",
+                  "color": "#000000",
+                  "fontFamily": {
+                    "label": "Open Sans",
+                    "value": "'Open Sans',sans-serif"
+                  }
+                }
+              }
+            ],
+            "values": {}
+          },
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:20px 0px;font-family:'Open Sans',sans-serif;\">Home &gt; Shop &gt; About Us &gt; Contact Us</td>",
+                  "color": "#333333",
+                  "fontFamily": {
+                    "label": "Open Sans",
+                    "value": "'Open Sans',sans-serif"
+                  }
+                }
+              }
+            ],
+            "values": {}
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "<h1 class=\"v-text-align v-line-height v-font-size\" style=\"margin: 0px; color: #000000; line-height: 140%; text-align: center; word-wrap: break-word; font-size: 22px; font-weight: 400;\"><span>Laravel Mail</span></h1>",
+                  "fontFamily": {
+                    "label": "Open Sans",
+                    "value": "'Open Sans',sans-serif"
+                  }
+                }
+              }
+            ],
+            "values": {}
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "Home > Shop > About Us > Contact Us",
+                  "fontFamily": {
+                    "label": "Open Sans",
+                    "value": "'Open Sans',sans-serif"
+                  },
+                  "padding": "10px"
+                }
+              }
+            ],
+            "values": {}
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "Holiday Savings Bonanza!",
+                  "fontFamily": {
+                    "label": "Open Sans",
+                    "value": "open sans,sans-serif"
+                  },
+                  "padding": {
+                    "top": "520px",
+                    "left": "10px",
+                    "right": "70px"
+                  }
+                }
+              }
+            ],
+            "values": {}
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "Don't Miss Out on Our Holiday Specials!",
+                  "fontFamily": "Open Sans, sans-serif"
+                }
+              }
+            ],
+            "values": {
+              "padding": "20px 10px 5px 70px"
+            }
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "Season's Greetings",
+                  "fontFamily": "Open Sans, sans-serif"
+                }
+              }
+            ],
+            "values": {
+              "padding": "10px 64px 10px 10px"
+            }
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "Season's Offers!",
+                  "fontFamily": {
+                    "label": "Open Sans",
+                    "value": "'Open Sans', sans-serif"
+                  },
+                  "padding": "0px 175px 111px 10px"
+                }
+              }
+            ],
+            "values": {}
+          }
+        ],
+        "values": {
+          "backgroundColor": "transparent"
+        }
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "Enhance your holiday season with our bright sales offers.",
+                  "color": "#333333"
+                }
+              }
+            ],
+            "values": {
+              "padding": "10px 10px 5px",
+              "fontFamily": {
+                "label": "Open Sans",
+                "value": "open sans,sans-serif"
+              }
+            }
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "Explore Our Holiday Sale",
+                  "style": {
+                    "fontFamily": "'Open Sans', sans-serif"
+                  }
+                }
+              }
+            ],
+            "values": {
+              "padding": "10px 10px 60px"
+            }
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "image",
+                "values": {
+                  "src": {
+                    "url": "assets/facebook.png"
+                  },
+                  "altText": "Facebook"
+                }
+              },
+              {
+                "type": "image",
+                "values": {
+                  "src": {
+                    "url": "assets/linkedin.png"
+                  },
+                  "altText": "LinkedIn"
+                }
+              },
+              {
+                "type": "image",
+                "values": {
+                  "src": {
+                    "url": "assets/instagram.png"
+                  },
+                  "altText": "Instagram"
+                }
+              },
+              {
+                "type": "image",
+                "values": {
+                  "src": {
+                    "url": "assets/x.png"
+                  },
+                  "altText": "X"
+                }
+              }
+            ],
+            "values": {
+              "padding": "60px 10px 10px",
+              "fontFamily": {
+                "label": "Open Sans",
+                "value": "'open sans',sans-serif"
+              }
+            }
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "image",
+                "values": {
+                  "src": {
+                    "url": "assets/linkedin.png"
+                  },
+                  "altText": "LinkedIn",
+                  "width": "32"
+                }
+              }
+            ],
+            "values": {}
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "image",
+                "values": {
+                  "src": {
+                    "url": "assets/instagram.png"
+                  },
+                  "altText": "Instagram",
+                  "width": "32"
+                }
+              }
+            ],
+            "values": {}
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "image",
+                "values": {
+                  "src": {
+                    "url": "assets/x.png"
+                  },
+                  "altText": "X",
+                  "width": "32"
+                }
+              }
+            ],
+            "values": {
+              "padding": "0px"
+            }
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "UNSUBSCRIBE   |   PRIVACY POLICY   |   WEB",
+                  "color": "#ffffff"
+                }
+              },
+              {
+                "type": "text",
+                "values": {
+                  "text": "\n",
+                  "color": "#ffffff"
+                }
+              },
+              {
+                "type": "text",
+                "values": {
+                  "text": "Capture the festive spirit! Don't let these unbeatable discounts slip away \u2013 up to 70% off awaits!",
+                  "color": "#ffffff"
+                }
+              }
+            ],
+            "values": {
+              "padding": "10px 100px 30px",
+              "fontFamily": "Open Sans, sans-serif"
+            }
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "Your content here",
+                  "style": {
+                    "font-family": "'Open Sans',sans-serif"
+                  }
+                }
+              }
+            ],
+            "values": {
+              "padding": "0px"
+            }
+          }
+        ],
+        "values": {
+          "borderTop": "1px solid #BBBBBB",
+          "backgroundColor": "transparent"
+        }
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": ""
+                }
+              }
+            ],
+            "values": {
+              "padding": "10px"
+            }
+          }
+        ],
+        "values": {}
+      }
+    ],
+    "values": {
+      "backgroundColor": "#ffffff",
+      "contentWidth": "600px",
+      "fontFamily": {
+        "label": "Arial",
+        "value": "arial,helvetica,sans-serif"
+      }
+    }
+  },
+  "schemaVersion": 15
+}
